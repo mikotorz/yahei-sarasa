@@ -5,5 +5,5 @@ SIMSUN_SOURCE = 'IBMPlexSansSC-Text'  # 宋体来源的文件名
 
 COPYRIGHT = 'Made from IBMPlexSansSC mikotorz'  # 字体的 Copyright
 
-TEMP_DIR = './temp'  # 临时目录
+TEMP_DIR = './temp/unhinted'  # 临时目录
 RESULT_DIR = './result'  # 结果目录
